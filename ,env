@@ -1,0 +1,1 @@
+DATABASE_URL = mongodb+srv://kharatsaurav12345:<password>@crud1.auqjere.mongodb.net/?retryWrites=true&w=majority
